@@ -96,7 +96,6 @@ export default function App() {
         </div>
         <div className='btn_container'> 
           <button onClick={() => randomAlpaca()} className='btn'> Random </button>
-          <button onClick={() => downloadAlpaca()} className='btn'> Download </button>
         </div>
     </div>
   );
